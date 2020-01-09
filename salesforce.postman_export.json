@@ -1,0 +1,2123 @@
+{
+	"version": 1,
+	"collections": [
+		{
+			"id": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+			"name": "Salesforce API",
+			"description": null,
+			"auth": null,
+			"events": null,
+			"variables": [],
+			"order": [
+				"583e0575-2812-4402-8138-d25a460bfcad",
+				"8501c6cc-3a71-4406-aae9-6e29613707bb",
+				"4a3e82cc-7f7a-481e-bc8e-c6d888afeb6b",
+				"44022acd-2f3b-4961-9904-558160f3f536"
+			],
+			"folders_order": [
+				"01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+				"76c37038-41b1-4aba-bdf4-8634addeda10",
+				"bd516f14-603c-4908-b0b5-1e7c11c45288",
+				"401fc47a-1455-48d5-899b-73f65abccdaa",
+				"51309414-8d24-4543-a990-234aa707d108",
+				"89f1d4cc-c5e6-436b-9fd2-5423fec3ae93",
+				"d39b894e-e4e6-470b-8770-49251c420463",
+				"f5a16c5f-7a42-491b-8cf7-f1583c326890",
+				"91da7082-5325-402b-b514-037b79f6acae"
+			],
+			"protocolProfileBehavior": {},
+			"folders": [
+				{
+					"id": "01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+					"name": "Auth",
+					"description": null,
+					"auth": null,
+					"events": null,
+					"collection": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folder": null,
+					"order": [
+						"75ffe49e-abc5-4c98-89bc-c6eae13cab03",
+						"aa414052-6a9a-4a0f-9bc2-82a6b89643ca",
+						"60dec314-20e9-401a-b925-3f3100f3d9ae",
+						"2c4437ad-aeb8-4be2-89d4-551da04ee782",
+						"871ee344-35d3-4ca6-b66c-4d5322c6488c",
+						"b49c86e6-ca33-4bc3-a9fd-a4983e43c365",
+						"c38d61e3-676e-4955-aa0f-0640f36cd951",
+						"7e823d8d-c8c7-4378-b744-ad5eaf5a7de3",
+						"7dbc7c11-5d83-4063-87ef-8291af23771f",
+						"9367385a-c819-4572-befa-e86bef2809a5",
+						"f0a92d42-1dda-4bbe-ba23-253a61b839c5",
+						"40536a26-a4ab-4398-a882-9798be2aa7a6",
+						"fd329027-c443-4ce9-8949-0f9cf2df2de2",
+						"e4dad2f5-f01a-4ac7-ac3c-1aa512fbccfc"
+					],
+					"folders_order": [],
+					"protocolProfileBehavior": {},
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folderId": "01100b2b-d1e0-4d46-b4cc-9025152e3afd"
+				},
+				{
+					"id": "76c37038-41b1-4aba-bdf4-8634addeda10",
+					"name": "Bulk V1",
+					"description": null,
+					"auth": null,
+					"events": null,
+					"collection": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folder": null,
+					"order": [
+						"4c0151de-0294-4c13-8231-ec8c56ddb6d9",
+						"3d7cf062-77dd-4533-9fe3-8827fe1b18bf",
+						"1b511f1c-f1f5-4f29-b0cf-b9f755467555",
+						"38135827-ece2-4059-8178-48f4bc76cbbb",
+						"1cc1ba3e-a925-4bfe-8e37-19e0ebbd3979",
+						"44598933-75ab-43b1-a0a6-edb5c6ec31a9"
+					],
+					"folders_order": [],
+					"protocolProfileBehavior": {},
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folderId": "76c37038-41b1-4aba-bdf4-8634addeda10"
+				},
+				{
+					"id": "bd516f14-603c-4908-b0b5-1e7c11c45288",
+					"name": "Bulk V2",
+					"description": null,
+					"auth": null,
+					"events": null,
+					"collection": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folder": null,
+					"order": [
+						"15bcf0c2-0144-4667-aea7-00e5a722a9b3",
+						"a62cb519-d984-4f2b-8413-83f376953bf1",
+						"be469ae4-2ae3-4bd5-b852-9f928a89b7c7",
+						"48b4649f-4566-4469-8ee3-1ba02eb70950",
+						"7464525d-275a-46a0-8f14-a9a8ab445c77",
+						"de836d8c-3931-4191-bbb7-e01049019035",
+						"1f2d7c7d-2568-4bac-9a7c-ab550f82bb38",
+						"6ef1996f-159c-42fd-9759-b852db0efbb7",
+						"72f3c23e-4fbc-4556-ad09-f791fb0a79a6"
+					],
+					"folders_order": [],
+					"protocolProfileBehavior": {},
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folderId": "bd516f14-603c-4908-b0b5-1e7c11c45288"
+				},
+				{
+					"id": "51309414-8d24-4543-a990-234aa707d108",
+					"name": "Chatter",
+					"description": null,
+					"auth": null,
+					"events": null,
+					"collection": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folder": null,
+					"order": [
+						"c995439a-b1eb-4ba5-b4d0-458543e0e15c"
+					],
+					"folders_order": [],
+					"protocolProfileBehavior": {},
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folderId": "51309414-8d24-4543-a990-234aa707d108"
+				},
+				{
+					"id": "91da7082-5325-402b-b514-037b79f6acae",
+					"name": "Composite",
+					"description": null,
+					"auth": null,
+					"events": null,
+					"collection": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folder": null,
+					"order": [
+						"9dd0d0a6-2231-4e66-be63-60b35c8224e3"
+					],
+					"folders_order": [],
+					"protocolProfileBehavior": {},
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folderId": "91da7082-5325-402b-b514-037b79f6acae"
+				},
+				{
+					"id": "f5a16c5f-7a42-491b-8cf7-f1583c326890",
+					"name": "Metadata",
+					"description": null,
+					"auth": null,
+					"events": null,
+					"collection": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folder": null,
+					"order": [
+						"da89578f-8c94-4706-ba5b-8a39600b22bb"
+					],
+					"folders_order": [],
+					"protocolProfileBehavior": {},
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folderId": "f5a16c5f-7a42-491b-8cf7-f1583c326890"
+				},
+				{
+					"id": "401fc47a-1455-48d5-899b-73f65abccdaa",
+					"name": "REST",
+					"description": null,
+					"auth": null,
+					"events": null,
+					"collection": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folder": null,
+					"order": [
+						"aa2639ad-42ab-4b79-8b35-ad8fe0c38cfa",
+						"0d495ea4-9243-4386-9b13-ceff0fe6f497"
+					],
+					"folders_order": [],
+					"protocolProfileBehavior": {},
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folderId": "401fc47a-1455-48d5-899b-73f65abccdaa"
+				},
+				{
+					"id": "89f1d4cc-c5e6-436b-9fd2-5423fec3ae93",
+					"name": "Tooling",
+					"description": null,
+					"auth": null,
+					"events": null,
+					"collection": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folder": null,
+					"order": [
+						"55c36667-62f0-48b2-97c8-15b1f7f61456",
+						"80ec5e2c-2f2b-4bc5-ab1c-5400bb6ed864",
+						"4afb87a5-2018-4853-ba8c-ca48cc0eadac",
+						"62cf2570-195c-4123-b5c8-6de421f93d7a"
+					],
+					"folders_order": [],
+					"protocolProfileBehavior": {},
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folderId": "89f1d4cc-c5e6-436b-9fd2-5423fec3ae93"
+				},
+				{
+					"id": "d39b894e-e4e6-470b-8770-49251c420463",
+					"name": "Trailhead",
+					"description": null,
+					"auth": null,
+					"events": null,
+					"collection": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folder": null,
+					"order": [
+						"a60e554a-8c10-43b9-96b0-0384f8f0c612"
+					],
+					"folders_order": [],
+					"protocolProfileBehavior": {},
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"folderId": "d39b894e-e4e6-470b-8770-49251c420463"
+				}
+			],
+			"requests": [
+				{
+					"id": "0d495ea4-9243-4386-9b13-ceff0fe6f497",
+					"name": "Describe",
+					"url": "{{endpoint}}/services/data/v{{version}}/sobjects/",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						}
+					],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "401fc47a-1455-48d5-899b-73f65abccdaa",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Authorization: Bearer {{access_token}}\nContent-Type: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "15bcf0c2-0144-4667-aea7-00e5a722a9b3",
+					"name": "Create job",
+					"url": "{{endpoint}}/services/data/v{{version}}/jobs/ingest",
+					"description": null,
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "raw",
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "b438d4fa-1275-4c48-ad33-20b679018754",
+								"exec": [
+									"var response = JSON.parse(responseBody)",
+									"postman.setGlobalVariable(\"jobId\", response.id);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"folder": "bd516f14-603c-4908-b0b5-1e7c11c45288",
+					"preRequestScript": null,
+					"tests": "var response = JSON.parse(responseBody)\npostman.setGlobalVariable(\"jobId\", response.id);",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "{\n\"object\":\"Asset\",\n\"operation\":\"update\"\n}",
+					"headers": "Authorization: Bearer {{access_token}}\nContent-Type: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "1b511f1c-f1f5-4f29-b0cf-b9f755467555",
+					"name": "Bulk Create Batch",
+					"url": "{{endpoint}}/services/async/{{version}}/job/{{jobId}}/batch",
+					"description": null,
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "binary",
+					"headerData": [
+						{
+							"key": "X-SFDC-Session",
+							"value": "{{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "text/csv"
+						},
+						{
+							"key": "Content-Type",
+							"value": "zip/csv",
+							"enabled": false
+						},
+						{
+							"key": "charset",
+							"value": "UTF-8"
+						},
+						{
+							"key": "Accept-Encoding",
+							"value": "gzip",
+							"enabled": false
+						},
+						{
+							"key": "Content-Encoding",
+							"value": "gzip",
+							"enabled": false
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3823484e-282d-406a-b718-c3622539fd11",
+								"exec": [
+									"var xmlTree = xml2Json(responseBody);",
+									"console.log(xmlTree);",
+									"postman.setGlobalVariable(\"batchId\", xmlTree['batchInfo']['id']);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"folder": "76c37038-41b1-4aba-bdf4-8634addeda10",
+					"preRequestScript": null,
+					"tests": "var xmlTree = xml2Json(responseBody);\nconsole.log(xmlTree);\npostman.setGlobalVariable(\"batchId\", xmlTree['batchInfo']['id']);",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "/Users/scolladon/Desktop/poc-intperform-bigobject.csv",
+					"headers": "X-SFDC-Session: {{access_token}}\nContent-Type: text/csv\n//Content-Type: zip/csv\ncharset: UTF-8\n//Accept-Encoding: gzip\n//Content-Encoding: gzip\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "1cc1ba3e-a925-4bfe-8e37-19e0ebbd3979",
+					"name": "Bulk Check Batch Status",
+					"url": "{{endpoint}}/services/async/{{version}}/job/{{jobId}}/batch",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [
+						{
+							"key": "X-SFDC-Session",
+							"value": "{{access_token}}"
+						},
+						{
+							"key": "Accept-Encoding",
+							"value": "gzip"
+						},
+						{
+							"key": "Content-Encoding",
+							"value": "gzip"
+						}
+					],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "76c37038-41b1-4aba-bdf4-8634addeda10",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "X-SFDC-Session: {{access_token}}\nAccept-Encoding: gzip\nContent-Encoding: gzip\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "1f2d7c7d-2568-4bac-9a7c-ab550f82bb38",
+					"name": "Get Job Successful Record Results",
+					"url": "{{endpoint}}/services/data/v{{version}}/jobs/ingest/{{jobId}}/successfulResults",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"enabled": false
+						}
+					],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "bd516f14-603c-4908-b0b5-1e7c11c45288",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Authorization: Bearer {{access_token}}\n//Content-Type: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "2c4437ad-aeb8-4be2-89d4-551da04ee782",
+					"name": "Web Server Flow 2",
+					"url": "{{url}}{{site}}/services/oauth2/token",
+					"description": null,
+					"data": [
+						{
+							"key": "code",
+							"value": "aPrxJCZZ9LWwfrB8wH83kBQsU1SFji_cF3IZTFrkN2UrVpXQ46dkwbtuSWcG6l.esY03XKU1SQ==",
+							"type": "text"
+						},
+						{
+							"key": "grant_type",
+							"value": "authorization_code",
+							"type": "text"
+						},
+						{
+							"key": "client_id",
+							"value": "{{clientId}}",
+							"type": "text"
+						},
+						{
+							"key": "client_secret",
+							"value": "{{clientSecret}}",
+							"type": "text"
+						},
+						{
+							"key": "redirect_uri",
+							"value": "{{redirectUrl}}",
+							"type": "text"
+						},
+						{
+							"key": "format",
+							"value": "json",
+							"type": "text"
+						}
+					],
+					"dataOptions": null,
+					"dataMode": "params",
+					"headerData": [],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"type": "text/javascript",
+								"exec": [
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"access_token\", jsonData.access_token);",
+									"postman.setEnvironmentVariable(\"refresh_token\", jsonData.refresh_token);",
+									"postman.setEnvironmentVariable(\"issued_at\", Math.round((new Date()).getTime()/1000) + 5*50);",
+									""
+								]
+							}
+						}
+					],
+					"folder": "01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+					"preRequestScript": null,
+					"tests": "var jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"access_token\", jsonData.access_token);\npostman.setEnvironmentVariable(\"refresh_token\", jsonData.refresh_token);\npostman.setEnvironmentVariable(\"issued_at\", Math.round((new Date()).getTime()/1000) + 5*50);\n",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "",
+					"pathVariables": {}
+				},
+				{
+					"id": "38135827-ece2-4059-8178-48f4bc76cbbb",
+					"name": "Bulk Close Job",
+					"url": "{{endpoint}}/services/async/{{version}}/job/{{jobId}}",
+					"description": null,
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "raw",
+					"headerData": [
+						{
+							"key": "X-SFDC-Session",
+							"value": "{{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						},
+						{
+							"key": "charset",
+							"value": "UTF-8"
+						},
+						{
+							"key": "Accept-Encoding",
+							"value": "gzip",
+							"enabled": false
+						},
+						{
+							"key": "Content-Encoding",
+							"value": "gzip",
+							"enabled": false
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "76c37038-41b1-4aba-bdf4-8634addeda10",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "{\n   \"state\" : \"UploadComplete\"\n}",
+					"headers": "X-SFDC-Session: {{access_token}}\nContent-Type: application/json\ncharset: UTF-8\n//Accept-Encoding: gzip\n//Content-Encoding: gzip\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "3d7cf062-77dd-4533-9fe3-8827fe1b18bf",
+					"name": "Bulk Spec",
+					"url": "{{endpoint}}/services/async/{{version}}/job/{{jobid}}/spec",
+					"description": null,
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "raw",
+					"headerData": [
+						{
+							"key": "X-SFDC-Session",
+							"value": "{{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "text/csv"
+						},
+						{
+							"key": "charset",
+							"value": "UTF-8"
+						},
+						{
+							"key": "Accept-Encoding",
+							"value": "gzip"
+						},
+						{
+							"key": "Content-Encoding",
+							"value": "gzip"
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "76c37038-41b1-4aba-bdf4-8634addeda10",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "Salesforce Field,Csv Header,Value,Hint\nName,Full Name,,\nTitle,Job Title,,\nLeadSource,Lead Source,Import,\nDescription,,Imported from XYZ.csv,\nBirthdate,Date of Birth,,dd MM yy",
+					"headers": "X-SFDC-Session: {{access_token}}\nContent-Type: text/csv\ncharset: UTF-8\nAccept-Encoding: gzip\nContent-Encoding: gzip\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "40536a26-a4ab-4398-a882-9798be2aa7a6",
+					"name": "OpenID Connect Token Introspection Endpoint",
+					"url": "{{url}}/services/oauth2/introspect",
+					"description": null,
+					"data": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "text"
+						},
+						{
+							"key": "token_type_hint",
+							"value": "access_token",
+							"type": "text"
+						},
+						{
+							"key": "client_id",
+							"value": "{{clientId}}",
+							"type": "text"
+						},
+						{
+							"key": "client_secret",
+							"value": "{{clientSecret}}",
+							"type": "text"
+						}
+					],
+					"dataOptions": null,
+					"dataMode": "urlencoded",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"name": "Content-Type",
+							"value": "application/x-www-form-urlencoded",
+							"type": "text"
+						},
+						{
+							"key": "Accept",
+							"value": "application/json",
+							"type": "text"
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Content-Type: application/x-www-form-urlencoded\nAccept: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "44022acd-2f3b-4961-9904-558160f3f536",
+					"name": "ID Token",
+					"url": "{{url}}/id/{{orgId}}/{{userId}}",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}",
+							"type": "text"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"type": "text"
+						}
+					],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": null,
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Authorization: Bearer {{access_token}}\nContent-Type: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "44598933-75ab-43b1-a0a6-edb5c6ec31a9",
+					"name": "Bulk Retrieve Batch Result",
+					"url": "{{endpoint}}/services/async/{{version}}/job/{{jobId}}/batch/{{batchId}}/result",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [
+						{
+							"key": "X-SFDC-Session",
+							"value": "{{access_token}}"
+						},
+						{
+							"key": "Accept-Encoding",
+							"value": "gzip"
+						},
+						{
+							"key": "Content-Encoding",
+							"value": "gzip"
+						}
+					],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "76c37038-41b1-4aba-bdf4-8634addeda10",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "X-SFDC-Session: {{access_token}}\nAccept-Encoding: gzip\nContent-Encoding: gzip\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "48b4649f-4566-4469-8ee3-1ba02eb70950",
+					"name": "Delete Job",
+					"url": "{{endpoint}}/services/data/v{{version}}/jobs/ingest/{{jobId}}",
+					"description": null,
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "raw",
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"enabled": false
+						}
+					],
+					"method": "DELETE",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "bd516f14-603c-4908-b0b5-1e7c11c45288",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "",
+					"headers": "Authorization: Bearer {{access_token}}\n//Content-Type: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "4a3e82cc-7f7a-481e-bc8e-c6d888afeb6b",
+					"name": "Salesforce Keys",
+					"url": "{{url}}/id/keys",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": null,
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "",
+					"pathVariables": {}
+				},
+				{
+					"id": "4afb87a5-2018-4853-ba8c-ca48cc0eadac",
+					"name": "TraceFlag",
+					"url": "{{endpoint}}/services/data/{{version}}/tooling/sobjects/TraceFlag/7tf580000034tPY",
+					"description": "7tf580000034tPY\n7tf580000034stG\n7tf580000034stB\n7tf580000034tPd\n7tf580000034tPi\n7tf580000034tSN\n7tf580000034tPn",
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "raw",
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						}
+					],
+					"method": "PATCH",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"type": "text/javascript",
+								"exec": [
+									"var startDateTime = new Date();",
+									"startDateTime.setHours(12);",
+									"startDateTime.setMinutes(0);",
+									"startDateTime.setSeconds(0);",
+									"startDateTime.setMilliseconds(0);",
+									"",
+									"",
+									"postman.setGlobalVariable(\"startDateTime\", startDateTime.toISOString());",
+									"startDateTime.setDate(startDateTime.getDate() + 1);",
+									"postman.setGlobalVariable(\"expirationDateTime\", startDateTime.toISOString());"
+								]
+							}
+						}
+					],
+					"folder": "89f1d4cc-c5e6-436b-9fd2-5423fec3ae93",
+					"preRequestScript": "var startDateTime = new Date();\nstartDateTime.setHours(12);\nstartDateTime.setMinutes(0);\nstartDateTime.setSeconds(0);\nstartDateTime.setMilliseconds(0);\n\n\npostman.setGlobalVariable(\"startDateTime\", startDateTime.toISOString());\nstartDateTime.setDate(startDateTime.getDate() + 1);\npostman.setGlobalVariable(\"expirationDateTime\", startDateTime.toISOString());",
+					"tests": null,
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "{\n\"ExpirationDate\":\"{{expirationDateTime}}\",\n\"StartDate\":\"{{startDateTime}}\"\n}",
+					"headers": "Authorization: Bearer {{access_token}}\nContent-Type: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "4c0151de-0294-4c13-8231-ec8c56ddb6d9",
+					"name": "Bulk Create Job",
+					"url": "{{endpoint}}/services/async/{{version}}/job",
+					"description": null,
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "raw",
+					"headerData": [
+						{
+							"key": "X-SFDC-Session",
+							"value": "{{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"name": "Content-Type",
+							"value": "application/json",
+							"type": "text"
+						},
+						{
+							"key": "charset",
+							"value": "UTF-8"
+						},
+						{
+							"key": "Sforce-Disable-Batch-Retry",
+							"value": "FALSE",
+							"enabled": false
+						},
+						{
+							"key": "Sforce-Line-Ending",
+							"value": "CRLF",
+							"enabled": false
+						},
+						{
+							"key": "Sforce-Enable-PKChunking",
+							"value": "FALSE",
+							"enabled": false
+						},
+						{
+							"key": "Accept-Encoding",
+							"value": "gzip",
+							"enabled": false
+						},
+						{
+							"key": "Content-Encoding",
+							"value": "gzip",
+							"enabled": false
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3a4d4b27-e558-45cb-90b1-0bcfdf006cec",
+								"exec": [
+									"if(postman.getResponseHeader(\"Content-Type\").indexOf(\"xml\") !== -1) {",
+									"    var jsonData = xml2Json(responseBody);",
+									"    postman.setGlobalVariable(\"jobId\", jsonData['jobInfo']['id']);    ",
+									"}",
+									"",
+									"if(postman.getResponseHeader(\"Content-Type\").indexOf(\"json\") !== -1) {",
+									"    var jsonData = JSON.parse(responseBody);",
+									"    postman.setGlobalVariable(\"jobId\", jsonData.id);",
+									"}",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"folder": "76c37038-41b1-4aba-bdf4-8634addeda10",
+					"preRequestScript": null,
+					"tests": "if(postman.getResponseHeader(\"Content-Type\").indexOf(\"xml\") !== -1) {\n    var jsonData = xml2Json(responseBody);\n    postman.setGlobalVariable(\"jobId\", jsonData['jobInfo']['id']);    \n}\n\nif(postman.getResponseHeader(\"Content-Type\").indexOf(\"json\") !== -1) {\n    var jsonData = JSON.parse(responseBody);\n    postman.setGlobalVariable(\"jobId\", jsonData.id);\n}\n\n",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "{\n  \"operation\" : \"insert\",\n  \"object\" : \"Old_Activity__b\",\n  \"contentType\" : \"CSV\"\n}",
+					"headers": "X-SFDC-Session: {{access_token}}\nContent-Type: application/json\ncharset: UTF-8\n//Sforce-Disable-Batch-Retry: FALSE\n//Sforce-Line-Ending: CRLF\n//Sforce-Enable-PKChunking: FALSE\n//Accept-Encoding: gzip\n//Content-Encoding: gzip\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "55c36667-62f0-48b2-97c8-15b1f7f61456",
+					"name": "ApexCodeCoverageAggregate",
+					"url": "{{endpoint}}/services/data/{{version}}/tooling/sobjects/ApexCodeCoverageAggregate",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						}
+					],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "89f1d4cc-c5e6-436b-9fd2-5423fec3ae93",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Authorization: Bearer {{access_token}}\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "583e0575-2812-4402-8138-d25a460bfcad",
+					"name": "Limit",
+					"url": "{{endpoint}}/services/data/v{{version}}/limits",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						}
+					],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": null,
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Authorization: Bearer {{access_token}}\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "60dec314-20e9-401a-b925-3f3100f3d9ae",
+					"name": "Web Server Flow 1",
+					"url": "{{url}}{{site}}/services/oauth2/authorize?response_type=code&client_id={{clientId}}&redirect_uri={{redirectUrl}}&scope=full refresh_token",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [
+						{
+							"key": "response_type",
+							"value": "code"
+						},
+						{
+							"key": "client_id",
+							"value": "{{clientId}}"
+						},
+						{
+							"key": "redirect_uri",
+							"value": "{{redirectUrl}}"
+						},
+						{
+							"key": "scope",
+							"value": "full refresh_token"
+						}
+					],
+					"auth": null,
+					"events": null,
+					"folder": "01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "",
+					"pathVariables": {}
+				},
+				{
+					"id": "62cf2570-195c-4123-b5c8-6de421f93d7a",
+					"name": "ExecuteAnonymous",
+					"url": "{{endpoint}}/services/data/v{{version}}/tooling/executeAnonymous/?anonymousBody=\nDatabase.executeBatch(new ChangeAccountStatusSBBQQuoteBatch(Userinfo.getUserId(),Datetime.now().addHours(-12)),2000);",
+					"description": null,
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "raw",
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}",
+							"type": "text"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"type": "text",
+							"enabled": false
+						}
+					],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [
+						{
+							"key": "anonymousBody",
+							"value": "\nDatabase.executeBatch(new ChangeAccountStatusSBBQQuoteBatch(Userinfo.getUserId(),Datetime.now().addHours(-12)),2000);",
+							"equals": true,
+							"description": "",
+							"enabled": true
+						}
+					],
+					"auth": null,
+					"events": null,
+					"folder": "89f1d4cc-c5e6-436b-9fd2-5423fec3ae93",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "",
+					"headers": "Authorization: Bearer {{access_token}}\n//Content-Type: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "6ef1996f-159c-42fd-9759-b852db0efbb7",
+					"name": "Get Job Failed Record Results",
+					"url": "{{endpoint}}/services/data/v{{version}}/jobs/ingest/{{jobId}}/failedResults",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"enabled": false
+						}
+					],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "bd516f14-603c-4908-b0b5-1e7c11c45288",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Authorization: Bearer {{access_token}}\n//Content-Type: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "72f3c23e-4fbc-4556-ad09-f791fb0a79a6",
+					"name": "Get Job Unprocessed Record Results",
+					"url": "{{endpoint}}/services/data/v{{version}}/jobs/ingest/{{jobId}}/unprocessedrecords",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"enabled": false
+						}
+					],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "bd516f14-603c-4908-b0b5-1e7c11c45288",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Authorization: Bearer {{access_token}}\n//Content-Type: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "7464525d-275a-46a0-8f14-a9a8ab445c77",
+					"name": "Get Job Info",
+					"url": "{{endpoint}}/services/data/v{{version}}/jobs/ingest/{{jobId}}",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"enabled": false
+						}
+					],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "bd516f14-603c-4908-b0b5-1e7c11c45288",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Authorization: Bearer {{access_token}}\n//Content-Type: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "75ffe49e-abc5-4c98-89bc-c6eae13cab03",
+					"name": "JWT Bearer Token Flow",
+					"url": "{{url}}/services/oauth2/token",
+					"description": "JWT Auth",
+					"data": [
+						{
+							"key": "grant_type",
+							"value": "urn:ietf:params:oauth:grant-type:jwt-bearer",
+							"type": "text"
+						},
+						{
+							"key": "assertion",
+							"value": "",
+							"type": "text"
+						}
+					],
+					"dataOptions": null,
+					"dataMode": "urlencoded",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/x-www-form-urlencoded"
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"type": "text/javascript",
+								"exec": [
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"token\", jsonData.access_token);",
+									"postman.setEnvironmentVariable(\"endpoint\", jsonData.instance_url);"
+								]
+							}
+						}
+					],
+					"folder": "01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+					"preRequestScript": null,
+					"tests": "var jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"token\", jsonData.access_token);\npostman.setEnvironmentVariable(\"endpoint\", jsonData.instance_url);",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Content-Type: application/x-www-form-urlencoded\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "7dbc7c11-5d83-4063-87ef-8291af23771f",
+					"name": "OpenID Connect Discovery Endpoint",
+					"url": "{{url}}/.well-known/openid-configuration",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "",
+					"pathVariables": {}
+				},
+				{
+					"id": "7e823d8d-c8c7-4378-b744-ad5eaf5a7de3",
+					"name": "Revoke Token",
+					"url": "{{url}}/services/oauth2/revoke",
+					"description": null,
+					"data": [
+						{
+							"key": "token",
+							"value": "",
+							"type": "text"
+						}
+					],
+					"dataOptions": null,
+					"dataMode": "urlencoded",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/x-www-form-urlencoded"
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "4c88977a-e2b4-47bd-91db-cd57d1b07daf",
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"folder": "01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+					"preRequestScript": null,
+					"tests": null,
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Content-Type: application/x-www-form-urlencoded\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "80ec5e2c-2f2b-4bc5-ab1c-5400bb6ed864",
+					"name": "Tooling Search",
+					"url": "{{endpoint}}/services/data/{{version}}/tooling/query?q=Select id from TraceFlag",
+					"description": "Search",
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						}
+					],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [
+						{
+							"key": "q",
+							"value": "Select id from TraceFlag"
+						}
+					],
+					"auth": null,
+					"events": null,
+					"folder": "89f1d4cc-c5e6-436b-9fd2-5423fec3ae93",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Authorization: Bearer {{access_token}}\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "8501c6cc-3a71-4406-aae9-6e29613707bb",
+					"name": "{{url}}/services/data/v40.0/sobjects/Attachment",
+					"url": "{{url}}/services/data/v40.0/sobjects/Attachment",
+					"description": null,
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "raw",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						},
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": null,
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "{\n  \"Name\" : \"demo.csv\",\n  \"Body\": \"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\",\n  \"parentId\": \"a1N4E000000Va6kUAC\"\n}",
+					"headers": "Content-Type: application/json\nAuthorization: Bearer {{access_token}}\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "871ee344-35d3-4ca6-b66c-4d5322c6488c",
+					"name": "OAuth Username Password",
+					"url": "{{url}}/services/oauth2/token",
+					"description": null,
+					"data": [
+						{
+							"key": "grant_type",
+							"value": "password",
+							"type": "text"
+						},
+						{
+							"key": "client_id",
+							"value": "{{clientId}}",
+							"type": "text"
+						},
+						{
+							"key": "client_secret",
+							"value": "{{clientSecret}}",
+							"type": "text"
+						},
+						{
+							"key": "username",
+							"value": "{{username}}",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "{{password}}",
+							"type": "text"
+						}
+					],
+					"dataOptions": null,
+					"dataMode": "urlencoded",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/x-www-form-urlencoded"
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"type": "text/javascript",
+								"exec": [
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"access_token\", jsonData.access_token);",
+									"postman.setEnvironmentVariable(\"endpoint\", jsonData.instance_url);"
+								]
+							}
+						}
+					],
+					"folder": "01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+					"preRequestScript": null,
+					"tests": "var jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"access_token\", jsonData.access_token);\npostman.setEnvironmentVariable(\"endpoint\", jsonData.instance_url);",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Content-Type: application/x-www-form-urlencoded\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "9367385a-c819-4572-befa-e86bef2809a5",
+					"name": "Authentication Configuration Endpoint",
+					"url": "{{url}}/.well-known/auth-configuration",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "",
+					"pathVariables": {}
+				},
+				{
+					"id": "9dd0d0a6-2231-4e66-be63-60b35c8224e3",
+					"name": "INT53",
+					"url": "{{url}}/services/data/v{{version}}/composite/",
+					"description": null,
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "raw",
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}",
+							"type": "text"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"type": "text"
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "91da7082-5325-402b-b514-037b79f6acae",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "{\n  \"compositeRequest\" : [ {\n    \"method\" : \"GET\",\n    \"url\" : \"/services/data/v40.0/sobjects/Account/0010D00000Ll0VuQAJ?fields=NationalId__pc,PersonEmail,FirstName,MobileProfessionalTelephone__pc,MaritalStatus__pc,NationalId2__pc,NationalId2Type__pc,NationalIdType__pc,Profession__pc,PersonBirthdate,ClientLanguage__pc,PSAWorker__pc,ProfessionalEmail__pc,MaidenName__pc,Patronym__pc,SingleName__pc,Salutation,Title__pc,PersonMailingStreet,MailingAddressComplement__pc,PersonMailingPostalCode,PersonMailingCity,PersonMailingState,PersonMailingCountry,NationalId2ProviderCity__pc,NationalId2ValidityEndDate__pc,Id,SalesChannel__c,RecordTypeId, RecordType.Name,LastName,Name,MobilePersonalTelephone__pc,LandlinePersonalTelephone__pc,LandlineProfessionalTelephone__pc,CompanyActivityType__c, VNContractNumber__c\",\n    \"referenceId\" : \"refAccount\"\n  }, {\n    \"method\" : \"GET\",\n    \"url\" : \"/services/data/v40.0/sobjects/Account/0010D00000Ll0VuQAJ/AccountContactRelations?fields=Id,AccountId,ContactId,Roles,Contact.FirstName,Contact.LastName,Contact.Birthdate,Contact.NationalId__c,Contact.NationalIdType__c\",\n    \"referenceId\" : \"refContactRel\"\n  }, {\n    \"method\" : \"GET\",\n    \"url\" : \"/services/data/v40.0/sobjects/Account/0010D00000Ll0VuQAJ/Account_External_References__r?fields=Id,Account__c,System__c,Brand__c,ExternalId__c\",\n    \"referenceId\" : \"refAccExtRef\"\n  }, {\n    \"method\" : \"GET\",\n    \"url\" : \"/services/data/v40.0/query?q=select+id,Customer__c,Dealer__c+from+AccountKnowledge__c+where+Customer__c='@{refAccount.Id}'+AND+Dealer__c='DealerId'\",\n    \"referenceId\" : \"refAccKnow\"\n  },{\n    \"method\" : \"GET\",\n    \"url\" : \"/services/data/v40.0/query?q=select+id,entityid__r.ShortVNContractNumber__c,Channel__c,contactabilitystatus__c,country__c,brand__c,purpose__c,calculationdate__c+from+contactability__c+where+Contact__r.Accountid='@{refAccount.Id}'+AND+entity__C='POS'+AND+entityid__r.VNContractNumber__c='999990A'\",\n    \"referenceId\" : \"refGDPR\"\n  } ]\n}",
+					"headers": "Authorization: Bearer {{access_token}}\nContent-Type: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "a60e554a-8c10-43b9-96b0-0384f8f0c612",
+					"name": "Trailhead Module",
+					"url": "{{url}}/{{version}}/modules",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						},
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						},
+						{
+							"key": "X-Api-Key",
+							"value": "{{key}}"
+						},
+						{
+							"key": "X-Environment-Url",
+							"value": "{{env}}"
+						}
+					],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "d39b894e-e4e6-470b-8770-49251c420463",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Content-Type: application/json\nAuthorization: Bearer {{access_token}}\nX-Api-Key: {{key}}\nX-Environment-Url: {{env}}\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "a62cb519-d984-4f2b-8413-83f376953bf1",
+					"name": "Upload Job Data",
+					"url": "{{endpoint}}/services/data/v{{version}}/jobs/ingest/{{jobId}}/batches",
+					"description": null,
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "binary",
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "text/csv"
+						}
+					],
+					"method": "PUT",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "bd516f14-603c-4908-b0b5-1e7c11c45288",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "",
+					"headers": "Authorization: Bearer {{access_token}}\nContent-Type: text/csv\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "aa2639ad-42ab-4b79-8b35-ad8fe0c38cfa",
+					"name": "REST Create",
+					"url": "{{url}}/services/data/v{{version}}/sobjects/Lead",
+					"description": null,
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "raw",
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						},
+						{
+							"key": "Accept-Encoding",
+							"value": "deflate"
+						},
+						{
+							"key": "Content-Encoding",
+							"value": "deflate",
+							"enabled": false
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"type": "text/javascript",
+								"exec": [
+									"{",
+									"    \"FirstName\" : \"test\",",
+									"    \"LastName\" : \"test\",",
+									"    \"ContactConsent__c\" : true,",
+									"    \"EnergyConsent__c\" : true,",
+									"    \"LandingConsent__c\" : true,",
+									"    \"SalesConsent__c\" : true,",
+									"    \"ServiceConsent__c\" : true",
+									"}",
+									""
+								]
+							}
+						}
+					],
+					"folder": "401fc47a-1455-48d5-899b-73f65abccdaa",
+					"preRequestScript": "{\n    \"FirstName\" : \"test\",\n    \"LastName\" : \"test\",\n    \"ContactConsent__c\" : true,\n    \"EnergyConsent__c\" : true,\n    \"LandingConsent__c\" : true,\n    \"SalesConsent__c\" : true,\n    \"ServiceConsent__c\" : true\n}\n",
+					"tests": null,
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "{\n\"FirstName\":\"Test\",\n\"LastName\":\"API\",\n\"GazparConsent__c\":true,\n\"LoadCurveLinkyConsent__c\":true,\n\"IndexLinkyConsent__c\":true\n}\n",
+					"headers": "Authorization: Bearer {{access_token}}\nContent-Type: application/json\nAccept-Encoding: deflate\n//Content-Encoding: deflate\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "aa414052-6a9a-4a0f-9bc2-82a6b89643ca",
+					"name": "User Agent Flow",
+					"url": "{{url}}{{site}}/services/oauth2/authorize?response_type=token token_id&client_id={{clientId}}&redirect_uri={{redirectUrl}}&display=touch&login_hint&nonce=awesome",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [
+						{
+							"key": "response_type",
+							"value": "token token_id"
+						},
+						{
+							"key": "client_id",
+							"value": "{{clientId}}"
+						},
+						{
+							"key": "redirect_uri",
+							"value": "{{redirectUrl}}"
+						},
+						{
+							"key": "display",
+							"value": "touch"
+						},
+						{
+							"key": "login_hint",
+							"value": null
+						},
+						{
+							"key": "nonce",
+							"value": "awesome"
+						}
+					],
+					"auth": null,
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "0a0dc544-c18f-4a6b-86e4-df3cccf8ab2d",
+								"exec": [
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"access_token\", jsonData.access_token);",
+									"postman.setEnvironmentVariable(\"endpoint\", jsonData.instance_url);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"folder": "01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+					"preRequestScript": null,
+					"tests": "var jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"access_token\", jsonData.access_token);\npostman.setEnvironmentVariable(\"endpoint\", jsonData.instance_url);",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "",
+					"pathVariables": {}
+				},
+				{
+					"id": "b49c86e6-ca33-4bc3-a9fd-a4983e43c365",
+					"name": "Asset Token Flow",
+					"url": "{{url}}/services/oauth2/token",
+					"description": null,
+					"data": [
+						{
+							"key": "grant_type",
+							"value": "urn:ietf:params:oauth:grant-type:token-exchange",
+							"type": "text"
+						},
+						{
+							"key": "subject_token_type",
+							"value": "urn:ietf:params:oauth:token-type:access_token",
+							"type": "text"
+						},
+						{
+							"key": "subject_token",
+							"value": "{{access_token}}",
+							"type": "text"
+						},
+						{
+							"key": "actor_token_type",
+							"value": "urn:ietf:params:oauth:token-type:jwt",
+							"type": "text"
+						},
+						{
+							"key": "actor_token",
+							"value": "eyJraWQiOiJkZXZpY2VrZXkiLCJhbGciOiJSUzI1NiJ9.eyJkaWQiOiJhNTMxNzk4ZC0wYjIwLWMwOTktYTA1My1mODU5MjgwMTE2ZjQiLCJOYW1lIjoiQXNzZXQgVG9rZW46IGE1MzE3OThkLTBiMjAtYzA5OS1hMDUzLWY4NTkyODAxMTZmNCIsIkFzc2V0Ijp7IkFjY291bnRJZCI6IjAwMTFpMDAwMDA2a2lUYyIsIlNlcmlhbE51bWJlciI6ImE1MzE3OThkLTBiMjAtYzA5OS1hMDUzLWY4NTkyODAxMTZmNCIsIkNvbnRhY3RJZCI6IjAwMzFpMDAwMDA2WmRrYyIsIk5hbWUiOiJBc3NldDogYTUzMTc5OGQtMGIyMC1jMDk5LWEwNTMtZjg1OTI4MDExNmY0In0sImNuZiI6eyJqd2siOnsia3R5IjoiUlNBIiwia2lkIjoiZGV2aWNla2V5IiwibiI6ImwtODc0YllDY3RMdUdNNmg3a3VGYlVjaUhyYW9UcFdEd2c2Y1FBdF90dVZ6VkZVUWdWZVN0STBEeF9DSzhkWGlvSllxcFAzeUpIdlR5YjNSSnVZbzI3X0JoNTBkVzNkcTJ4N0hheERyWFNwUGo2OV84UGVmc295eXBnb3Z1UjlfOWFLQWd3bGYtbThoR1YtUWpLdllYSzFSdHBxdmJLY3VDUzduWFBZdmV5TGtFTm04SjFVTkNRU2pncjZ1Z2ZKSWh3LXRhOGJXa1dtX3hPOU1xZkdHVjY2dlNXVi16dGVaQng1VkJLSnFpaFNvSi1OdHJFalJNdEYxWkJ2S3BSYjlmMld3REs4YUUzYzJVdU1xeUJaNFRrVXFRRXFWNEpYNDJrMEhNTXNGRzFGSnBtS3ZMRHdXWDBFZVRaT2lKbHFNSWp0SU00cXpJdEZTcEN6WVRLN2t3dyIsImUiOiJBUUFCIn19fQ.bn-yTLOpHdNVpR1IalyWp7mWac0ggCnLH9M8FcdAIyR0fE3aA8oPYAlNcBo-hX7WSuwuDhLlnYt800Mkthd_iM_IYRI3l9K-uE0n3movv8sw7CDcpuxWr1W8XG7Q3K7ycQqgaTx8rhItRzOvVAYQ0Q0J9QF8BVx5lWyBWyqqbRMfMUluWkjqW5Mo81HpCAKHvR1hVJor-SNY0fdPkXZ3CYDLDM1w1Q5cFr0EfJ-FsrfN2GKuw8fPKaW0qjdsBuswqvZ7xoGoiNZm2OT5gsCNH6RIT3BZnNxEIZ3weJ2LcwhFPiH8IrvP3e9AnJLchtCOYno4obvrdtydqVsDpACP9A",
+							"type": "text"
+						}
+					],
+					"dataOptions": null,
+					"dataMode": "urlencoded",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"name": "Content-Type",
+							"value": "application/x-www-form-urlencoded",
+							"type": "text"
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Content-Type: application/x-www-form-urlencoded\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "be469ae4-2ae3-4bd5-b852-9f928a89b7c7",
+					"name": "Close or Abort a Job",
+					"url": "{{endpoint}}/services/data/v{{version}}/jobs/ingest/{{jobId}}",
+					"description": null,
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "raw",
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						}
+					],
+					"method": "PATCH",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "bd516f14-603c-4908-b0b5-1e7c11c45288",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "{\n\t\"state\":\"UploadComplete\"\n}",
+					"headers": "Authorization: Bearer {{access_token}}\nContent-Type: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "c38d61e3-676e-4955-aa0f-0640f36cd951",
+					"name": "Refresh Token",
+					"url": "{{url}}/services/oauth2/token",
+					"description": null,
+					"data": [
+						{
+							"key": "grant_type",
+							"value": "refresh_token",
+							"type": "text"
+						},
+						{
+							"key": "client_id",
+							"value": "{{clientId}}",
+							"type": "text"
+						},
+						{
+							"key": "client_secret",
+							"value": "{{clientSecret}}",
+							"type": "text"
+						},
+						{
+							"key": "refresh_token",
+							"value": "5Aep861tlMDNuVXI5qNJo5sC0c0ohUf__6zD38rEZqMq9wrAGzL863FkZS4.s8ygYD6Obtg9EbGeGJWuZJus4GU",
+							"type": "text"
+						}
+					],
+					"dataOptions": null,
+					"dataMode": "urlencoded",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/x-www-form-urlencoded"
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "4c88977a-e2b4-47bd-91db-cd57d1b07daf",
+								"exec": [
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"token\", jsonData.access_token);",
+									"postman.setEnvironmentVariable(\"endpoint\", jsonData.instance_url);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"folder": "01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+					"preRequestScript": null,
+					"tests": "var jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"token\", jsonData.access_token);\npostman.setEnvironmentVariable(\"endpoint\", jsonData.instance_url);",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Content-Type: application/x-www-form-urlencoded\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "c995439a-b1eb-4ba5-b4d0-458543e0e15c",
+					"name": "Upload Photo Chatter",
+					"url": "{{url}}/services/data/v40.0/connect/user-profiles/me/photo",
+					"description": null,
+					"data": [
+						{
+							"key": "json",
+							"value": "{\"cropY\":\"0\",\"cropX\":\"0\",\"cropSize\":\"200\"}",
+							"type": "text"
+						},
+						{
+							"key": "fileUpload",
+							"value": [],
+							"type": "file"
+						}
+					],
+					"dataOptions": null,
+					"dataMode": "params",
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "multipart/form-data",
+							"enabled": false
+						},
+						{
+							"key": "Content-Disposition",
+							"value": "form-data; name=\"photo\"",
+							"enabled": false
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=UTF-8",
+							"enabled": false
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "51309414-8d24-4543-a990-234aa707d108",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Authorization: Bearer {{access_token}}\n//Content-Type: multipart/form-data\n//Content-Disposition: form-data; name=\"photo\"\n//Content-Type: application/json; charset=UTF-8\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "da89578f-8c94-4706-ba5b-8a39600b22bb",
+					"name": "SOAP DescribeMetadata",
+					"url": "{{url}}/services/Soap/m/46.0",
+					"description": null,
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "raw",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"name": "Content-Type",
+							"value": "text/xml",
+							"type": "text"
+						},
+						{
+							"key": "charset",
+							"value": "UTF-8"
+						},
+						{
+							"key": "SOAPAction",
+							"value": "login"
+						},
+						{
+							"key": "Accept",
+							"value": "application/json",
+							"type": "text",
+							"enabled": false
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "8ea3256a-fb89-4eec-85de-2172c63fd5e9",
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"folder": "f5a16c5f-7a42-491b-8cf7-f1583c326890",
+					"preRequestScript": null,
+					"tests": null,
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<soapenv:Envelope xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:tns=\"http://soap.sforce.com/2006/04/metadata\">\n\t<soapenv:Header>\n\t<tns:SessionHeader>\n\t\t<tns:sessionId>{{access_token}}</tns:sessionId>\n\t</tns:SessionHeader>\n\t</soapenv:Header>\n\t<soapenv:Body>\n\t\t<tns:describeMetadata>\n\t\t\t<asOfVersion>45.0</asOfVersion>\n\t\t</tns:describeMetadata>\n\t</soapenv:Body>\n</soapenv:Envelope>",
+					"headers": "Content-Type: text/xml\ncharset: UTF-8\nSOAPAction: login\n//Accept: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "de836d8c-3931-4191-bbb7-e01049019035",
+					"name": "Get All Jobs",
+					"url": "{{endpoint}}/services/data/v{{version}}/jobs/ingest",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"enabled": false
+						}
+					],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "bd516f14-603c-4908-b0b5-1e7c11c45288",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Authorization: Bearer {{access_token}}\n//Content-Type: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "e4dad2f5-f01a-4ac7-ac3c-1aa512fbccfc",
+					"name": "SOAP Login",
+					"url": "{{url}}/services/Soap/u/47.0",
+					"description": null,
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "raw",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"name": "Content-Type",
+							"value": "text/xml",
+							"type": "text"
+						},
+						{
+							"key": "SOAPAction",
+							"value": "login",
+							"type": "text"
+						},
+						{
+							"key": "charset",
+							"value": "UTF-8",
+							"type": "text"
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "7fff925d-9787-45e6-9e08-23d0f8886eb4",
+								"exec": [
+									"var xmlTree = xml2Json(responseBody);",
+									"postman.setEnvironmentVariable(\"access_token\", xmlTree[\"soapenv:Envelope\"][\"soapenv:Body\"].loginResponse.result.sessionId);",
+									"var url = xmlTree[\"soapenv:Envelope\"][\"soapenv:Body\"].loginResponse.result.serverUrl.split(\"/\");",
+									"postman.setEnvironmentVariable(\"endpoint\", url[0] + \"//\" + url[2]);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"folder": "01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+					"preRequestScript": null,
+					"tests": "var xmlTree = xml2Json(responseBody);\npostman.setEnvironmentVariable(\"access_token\", xmlTree[\"soapenv:Envelope\"][\"soapenv:Body\"].loginResponse.result.sessionId);\nvar url = xmlTree[\"soapenv:Envelope\"][\"soapenv:Body\"].loginResponse.result.serverUrl.split(\"/\");\npostman.setEnvironmentVariable(\"endpoint\", url[0] + \"//\" + url[2]);",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n<env:Envelope xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"\n    xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\n    xmlns:env=\"http://schemas.xmlsoap.org/soap/envelope/\">\n  <env:Body>\n    <n1:login xmlns:n1=\"urn:partner.soap.sforce.com\">\n      <n1:username>{{username}}</n1:username>\n      <n1:password>{{password}}{{secret_token}}</n1:password>\n    </n1:login>\n  </env:Body>\n</env:Envelope>",
+					"headers": "Content-Type: text/xml\nSOAPAction: login\ncharset: UTF-8\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "f0a92d42-1dda-4bbe-ba23-253a61b839c5",
+					"name": "User Info",
+					"url": "{{url}}/services/oauth2/userinfo",
+					"description": null,
+					"data": null,
+					"dataOptions": null,
+					"dataMode": null,
+					"headerData": [
+						{
+							"key": "Authorization",
+							"value": "Bearer {{access_token}}"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						}
+					],
+					"method": "GET",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"headers": "Authorization: Bearer {{access_token}}\nContent-Type: application/json\n",
+					"pathVariables": {}
+				},
+				{
+					"id": "fd329027-c443-4ce9-8949-0f9cf2df2de2",
+					"name": "OpenID Connect Dynamic Client Registration Endpoint",
+					"url": "{{url}}/services/oauth2/register",
+					"description": null,
+					"data": [],
+					"dataOptions": null,
+					"dataMode": "raw",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"name": "Content-Type",
+							"value": "application/json",
+							"type": "text"
+						},
+						{
+							"key": "Accept",
+							"value": "application/json",
+							"type": "text"
+						},
+						{
+							"key": "Authorization",
+							"value": "Bearer {{init_access_token}}",
+							"type": "text"
+						}
+					],
+					"method": "POST",
+					"pathVariableData": [],
+					"queryParams": [],
+					"auth": null,
+					"events": null,
+					"folder": "01100b2b-d1e0-4d46-b4cc-9025152e3afd",
+					"currentHelper": null,
+					"helperAttributes": null,
+					"collectionId": "5a75421e-aa46-479f-acdf-d8befdc50afd",
+					"rawModeData": "{\n    \"redirect_uris\": [\n        \"http://localhost\"\n    ],\n    \"response_types\": [\n        \"code\",\n        \"token\",\n        \"id_token\"\n    ],\n    \"grant_types\": [\n        \"authorization_code\",\n        \"implicit\",\n        \"refresh_token\"\n    ],\n    \"application_type\": \"web\",\n    \"contacts\": [\n        \"abc@sf.com\",\n        \"ve7jtb@example.org\"\n    ],\n    \"client_name\": \"Example Olivier\"\n}",
+					"headers": "Content-Type: application/json\nAccept: application/json\nAuthorization: Bearer {{init_access_token}}\n",
+					"pathVariables": {}
+				}
+			]
+		}
+	],
+	"environments": [
+		{
+			"id": "0c1a02da-f6b6-47a7-aee2-a1ec7956f698",
+			"name": "Salesforce",
+			"values": [
+				{
+					"key": "url",
+					"value": "https://test.salesforce.com",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "46.0",
+					"enabled": true
+				},
+				{
+					"key": "username",
+					"value": "",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "",
+					"enabled": true
+				},
+				{
+					"key": "secret_token",
+					"value": "",
+					"enabled": true
+				},
+				{
+					"key": "clientId",
+					"value": "",
+					"enabled": true
+				},
+				{
+					"key": "clientSecret",
+					"value": "",
+					"enabled": true
+				},
+				{
+					"key": "redirectUrl",
+					"value": "",
+					"enabled": true
+				},
+				{
+					"key": "init_access_token",
+					"value": "",
+					"enabled": true
+				},
+				{
+					"key": "site",
+					"value": "",
+					"enabled": true
+				},
+				{
+					"key": "key",
+					"value": "",
+					"enabled": true
+				},
+				{
+					"key": "env",
+					"value": "",
+					"enabled": true
+				},
+				{
+					"key": "orgId",
+					"value": "",
+					"enabled": true
+				},
+				{
+					"key": "userId",
+					"value": "",
+					"enabled": true
+				},
+				{
+					"key": "endpoint",
+					"value": "",
+					"enabled": true
+				},
+				{
+					"key": "access_token",
+					"value": "",
+					"enabled": true
+				},
+				{
+					"key": "secret_token",
+					"value": "",
+					"enabled": true
+				}
+			]
+		}],
+	"headerPresets": [
+		{
+			"id": "8abb480b-fdb4-4a2d-b2ad-15ce690f28e6",
+			"name": "Salesforce",
+			"headers": [
+				{
+					"key": "Authorization",
+					"value": "{{access_token}}",
+					"type": "text",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"type": "text",
+					"description": "",
+					"enabled": true
+				}
+			]
+		}
+	],
+	"globals": []
+}
